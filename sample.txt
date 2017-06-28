@@ -1,1 +1,2 @@
 Prva vrstica mojega super teksta.
+Dodam še eno vrstico.
